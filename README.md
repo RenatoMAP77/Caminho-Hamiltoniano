@@ -19,11 +19,11 @@ Este projeto consiste na implementação de um algoritmo para determinar a exist
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seunome/trabalho_individual_3_fpaa.git
+   git clone https://github.com/RenatoMAP77/Caminho-Hamiltoniano.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd trabalho_individual_3_fpaa
+   cd Caminho-Hamiltoniano
    ```
 3. Execute o script principal:
    ```sh
